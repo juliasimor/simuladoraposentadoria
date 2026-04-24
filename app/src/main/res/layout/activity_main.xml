@@ -37,6 +37,7 @@
         android:textColor="@color/darkgreen"
         android:drawableLeft="@color/mint"
         android:fontFamily="@font/nexa"
+        android:drawableEnd="@drawable/calculator"
         android:layout_marginTop="15dp"
         android:id="@+id/buttonCalcular"/>
 
